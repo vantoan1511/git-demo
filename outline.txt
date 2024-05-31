@@ -2,3 +2,5 @@
 
  edit in main
  edit in new branch
+ 
+ new line for fast-forward merge
