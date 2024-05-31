@@ -5,8 +5,11 @@
  
  new line for fast-forward merge
 
- duck
+ new line
+ new line 2
+ new line 3
 
- main
-
- main
+ new1
+ new2
+ new 3
+ new 4
