@@ -8,3 +8,6 @@
  new line
  new line 2
  new line 3
+
+ new1
+ new2
