@@ -4,3 +4,5 @@
  edit in new branch
  
  new line for fast-forward merge
+
+ new line
