@@ -13,8 +13,5 @@ There are many variations of passages of Lorem Ipsum available,
 
 fsdfs
 
-<<<<<<< HEAD
 new line 1
-=======
-new line
->>>>>>> 7406539a8c00cae9f41e5f742ca5736493eeb6a9
+new line 2
